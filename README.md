@@ -7,9 +7,10 @@
 [![Alerts](https://img.shields.io/badge/Email-Enabled-orange.svg)]()
 [![ISS Tracker](https://img.shields.io/badge/Feature-ISS_Overhead-red.svg)]()
 
-A simple Python application that emails you whenever the ISS is passing over your location **and** it's dark enough to see it. Runs every 5 minutes and notifies you in real time.
-
 ---
+## The Concept
+
+Technology often disconnects us from nature. I built this agent to use real-time orbital data to reconnect users with the physical world, creating moments of awe by notifying them exactly when the ISS is visible overhead.---
 
 
 ## Features
