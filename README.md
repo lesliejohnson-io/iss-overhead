@@ -2,10 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
-[![Checks Every](https://img.shields.io/badge/Interval-5_minutes-blueviolet.svg)]()
-[![Visibility](https://img.shields.io/badge/Condition-Dark%20Only-black.svg)]()
 [![Alerts](https://img.shields.io/badge/Email-Enabled-orange.svg)]()
-[![ISS Tracker](https://img.shields.io/badge/Feature-ISS_Overhead-red.svg)]()
+[![ISS Tracker](https://img.shields.io/badge/Feature-ISS_Overhead-blueviolet.svg)]()
 
 ---
 ## The Concept
@@ -40,7 +38,7 @@ iss-overhead/
 
 ---
 
-## 🔧 Setup
+## Setup
 
 ### 1. Clone the repository
 
@@ -79,7 +77,7 @@ Steps:
 
 ---
 
-## ▶️ Running the Script
+## Running the Script
 
 Run the script using:
 
@@ -98,7 +96,7 @@ This continues **indefinitely** until you stop it.
 
 ---
 
-## 🌓 How it Works
+## How it Works
 
 ### 1. Check ISS Position
 
@@ -164,15 +162,15 @@ Add:
 
 ---
 
-## 🛡 Security Notes
+## Security
 
 * Do **NOT** commit your `.env` file
-* Always use a **Gmail App Password**, not your real password
-* Your `.gitignore` already prevents `.env` from being pushed
+* Always use **Gmail App Password**, not your real password
+* The `.gitignore` prevents `.env` from being pushed
 
 ---
 
-## 📬 Email Example
+## Email Example
 
 You’ll receive:
 
@@ -184,13 +182,10 @@ Go outside and look up!
 
 ---
 
-## ⭐ Future Enhancements (Optional Ideas)
+## Future Enhancements
 
-* SMS notifications (Twilio)
-* Desktop notification
 * Push notification to your phone
 * GUI dashboard
 * Map visualization
-* Logging flyovers to a database
 
 ---
